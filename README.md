@@ -7,3 +7,5 @@
 #First half of the above step has worked. when used pull all the batch was updated. as only brach1 was updated.
 # doing changes in the branch1 at local repo. 
 #Done everything, first keeping branch1 then master bringing them in sync then updating the repo.
+
+# doing remote changes to check if it reflects at local.
